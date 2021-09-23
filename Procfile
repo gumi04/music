@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=pro target/music-catalog-api-1.0.0.jar
